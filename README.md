@@ -1,12 +1,11 @@
-# Hi, I'm Mirigil 👋  
-**Data Analyst | SQL Server · Python · Power BI · Tableau**
+# 👋 Hi, I'm Mirigil Kumar M
 
-Welcome to my data analytics portfolio.  
-I build end-to-end projects that turn business problems into actionable insights.  
+💡 Data Analyst | SQL | Python | Power BI | Tableau | Excel  
+🎯 Passionate about transforming raw data into business insights  
 
-## 🚀 Featured Projects  
-- [Healthcare Denial Analytics](#) *(SQL + Python + Power BI + Tableau)*  
-- [Retail Sales Forecasting](#) *(Time-Series + Dashboard)*  
-- [Customer Churn & LTV Analysis](#) *(Machine Learning + Cohorts)*  
+## 🚀 Projects
+- [Healthcare Denial Analytics](https://github.com/mirigilkumar/healthcare-denial-analytics)
 
-📬 **Contact:** [LinkedIn](https://linkedin.com/in/mirigilkumar) | [Email](mailto:mirigilkumar@gmail.com)
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/mirigilkumar)
+- [Email](mailto:mirigilkumar@gmail.com)
