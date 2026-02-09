@@ -5,7 +5,7 @@
 
 ## 🚀 Projects
 - [SQL DataWareHouse Project](https://github.com/mirigilkumar/SQL_Data_Warehouse_Project)
-- [SQL Data Analytics Project].(https://github.com/mirigilkumar/SQL_Data-Analytics-Project)
+- [SQL Data Analytics Project](https://github.com/mirigilkumar/SQL_Data-Analytics-Project)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/mirigilkumar)
